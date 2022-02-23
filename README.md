@@ -1,1 +1,2 @@
-# Loan-prediction
+# Loan-prediction using logistic regression
+
